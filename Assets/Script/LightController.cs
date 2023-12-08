@@ -15,8 +15,6 @@ public class LightController : MonoBehaviour
 
     Light lightObject;
 
-
-
     // Start is called before the first frame update
     void Start()
     {

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3803585760310157363}
   m_Layer: 9
   m_Name: Point Light_R
-  m_TagString: Wall
+  m_TagString: LightR
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

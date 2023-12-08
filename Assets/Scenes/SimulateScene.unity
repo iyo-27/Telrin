@@ -293,9 +293,21 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2959304843587651808, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
+      propertyPath: excelData
+      value: 
+      objectReference: {fileID: 11400000, guid: 3eed596e1179120418cb85309da721f2, type: 2}
+    - target: {fileID: 2959304843587651808, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
       propertyPath: lightPrefabB
       value: 
       objectReference: {fileID: 967798151602507885, guid: aa0da15f1e42c5a47b065b826c4e67a8, type: 3}
+    - target: {fileID: 2959304843587651808, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
+      propertyPath: lightPrefabL
+      value: 
+      objectReference: {fileID: 7012357916166865922, guid: 3e02e7ee809a41a47a5948c919e9c24d, type: 3}
+    - target: {fileID: 2959304843587651808, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
+      propertyPath: lightPrefabR
+      value: 
+      objectReference: {fileID: 3803585760310157363, guid: ab7297aebb9cb254c886b2dfef68abb1, type: 3}
     - target: {fileID: 2959304843587651809, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
       propertyPath: m_Name
       value: GameManager
