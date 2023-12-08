@@ -292,6 +292,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2959304843587651808, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
+      propertyPath: lightPrefabB
+      value: 
+      objectReference: {fileID: 967798151602507885, guid: aa0da15f1e42c5a47b065b826c4e67a8, type: 3}
     - target: {fileID: 2959304843587651809, guid: 91c4b94725ad6fd4ba6aed4be69b99e5, type: 3}
       propertyPath: m_Name
       value: GameManager

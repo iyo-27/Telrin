@@ -46,3 +46,4 @@ MonoBehaviour:
   lightPrefabB: {fileID: 967798151602507880, guid: aa0da15f1e42c5a47b065b826c4e67a8, type: 3}
   lightPrefabR: {fileID: 3803585760310157360, guid: ab7297aebb9cb254c886b2dfef68abb1, type: 3}
   lightPrefabL: {fileID: 7012357916166865927, guid: 3e02e7ee809a41a47a5948c919e9c24d, type: 3}
+  stageLightingSettingsB: {fileID: 9208991188927135378, guid: aa0da15f1e42c5a47b065b826c4e67a8, type: 3}

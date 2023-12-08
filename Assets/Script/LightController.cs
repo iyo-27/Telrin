@@ -11,7 +11,7 @@ public class LightController : MonoBehaviour
 
     public float endPoint = 18.0f; // 背面の終了時の明るさ
 
-    public Color lightColor = Color.blue; // 背面のライトの色
+    public Color lightColor = Color.white; // 背面のライトの色
 
     Light lightObject;
 
