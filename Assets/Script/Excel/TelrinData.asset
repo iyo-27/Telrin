@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92da0fd55ea3f294b9dca0b575180ced, type: 3}
+  m_Name: TelrinData
+  m_EditorClassIdentifier: 
+  Data:
+  - no: 1
+    color: red
+    lm: 30
+    time: 5
+  - no: 2
+    color: green
+    lm: 100
+    time: 6
+  - no: 3
+    color: red
+    lm: 30
+    time: 8
