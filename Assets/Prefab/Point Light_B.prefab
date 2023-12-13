@@ -107,6 +107,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lightSpeed: 0.1
-  startPoint: 1
+  startPoint: 18
   endPoint: 18
   lightColor: {r: 0, g: 0, b: 1, a: 1}
